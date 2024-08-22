@@ -9,7 +9,7 @@ A simple web-based application that helps you track your income and expenses. Th
 - **Transaction History:** View a history of added transactions.
 - **Delete Transactions:** Remove transactions from the history.
 - **Persistent Data:** Stores transaction data in `localStorage` so that data persists even after refreshing the page.
-- 
+  
 
 ## Technologies Used
 
